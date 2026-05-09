@@ -1,3 +1,6 @@
+<img width="4096" height="2306" alt="Picsart_26-05-09_11-22-25-416" src="https://github.com/user-attachments/assets/d6e2455f-e709-4d6d-9f25-16127d7e6b0d" />
+
+
 # Infinity-X-3.10-QPR2-for-Realme-8i-Narzo-50-spaced
 
 ## 📺 Display & UI (New & Improved!)
